@@ -1,0 +1,10 @@
+transformers
+pydub
+faster_whisper
+soundfile
+faster_whisper
+pickle
+gradio
+pyautogui
+pillow 
+timm
